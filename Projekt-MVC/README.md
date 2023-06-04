@@ -115,16 +115,21 @@ COMMIT;
 Přikladám screenshoty funkční stránky a SEO
 
 ![Uvod](https://raw.githubusercontent.com/KanzanElBirbo/WAP/main/Projekt-MVC/uvod.png)
+
 **Úvodní stránka**
 
 ![Prihlaseni](https://raw.githubusercontent.com/KanzanElBirbo/WAP/main/Projekt-MVC/prihlaseni.png)
+
 **Přihlašovací stránka**
 
 ![Clanky](https://raw.githubusercontent.com/KanzanElBirbo/WAP/main/Projekt-MVC/clanky.png)
+
 **Stranka s články**
 
 ![Edit](https://raw.githubusercontent.com/KanzanElBirbo/WAP/main/Projekt-MVC/edit.png)
+
 **Stránka s editorem článků**
 
 ![SEO](https://raw.githubusercontent.com/KanzanElBirbo/WAP/main/Projekt-MVC/SEO.png)
+
 **SEO webové stránky**
