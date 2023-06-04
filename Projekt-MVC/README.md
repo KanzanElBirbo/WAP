@@ -109,3 +109,22 @@ COMMIT;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
 ```
+
+## Screenshoty
+
+Přikladám screenshoty funkční stránky a SEO
+
+![Uvod](https://github.com/KanzanElBirbo/WAP/edit/main/Projekt-MVC/uvod.png)
+==Úvodní stránka==
+
+![Prihlaseni](https://github.com/KanzanElBirbo/WAP/edit/main/Projekt-MVC/prihlaseni.png)
+==Přihlašovací stránka==
+
+![Clanky](https://github.com/KanzanElBirbo/WAP/edit/main/Projekt-MVC/clanky.png)
+==Stranka s články==
+
+![Edit](https://github.com/KanzanElBirbo/WAP/edit/main/Projekt-MVC/edit.png)
+==Stránka s editorem článků==
+
+![SEO](https://github.com/KanzanElBirbo/WAP/edit/main/Projekt-MVC/SEO.png)
+==SEO webové stránky==
